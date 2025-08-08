@@ -17,7 +17,7 @@ It allows you to write your UI in **HTML**, your styling in **CSS**, and your lo
 
 - [Gulp.js](https://gulpjs.com/) for task automation
 - [Terser](https://terser.org/) for JavaScript minification
-- [CSSNano](https://cssnano.co/) for CSS minification
+- [CSSNano](https://cssnano.github.io/cssnano/) for CSS minification
 - [html-minifier-terser](https://github.com/terser/html-minifier-terser) for HTML minification
 
 ## Features
