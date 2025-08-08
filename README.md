@@ -115,6 +115,16 @@ To adapt this kit for your own project, you'll primarily edit the files in the `
 4.  **`src/core-logic.js`**:
     - This is where your main application logic goes. The file is already set up to inject the HTML from `ui.html` and attach event listeners.
 
+## For Developers (Customizing the Build)
+
+This starter kit is ready to use out-of-the-box, but the Gulp build process is designed to be highly customizable. If you wish to modify the build system itself—for example, to add support for TypeScript, Sass, or other tools—we have a comprehensive guide for you.
+
+➡️ **[Read the Developer's Guide to Customization](./DEVELOPER_GUIDE.md)**
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.

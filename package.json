@@ -5,6 +5,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp watch",
+    "lint": "gulp lint",
+    "lint:fix": "eslint --fix .",
     "build": "gulp build",
     "build:dev": "gulp buildDev",
     "build:prod": "gulp buildProd",
@@ -33,12 +35,16 @@
     "url": "git+https://github.com/Aviteshmurmu19/userscript-starter-kit.git"
   },
   "devDependencies": {
+    "@eslint/js": "^9.32.0",
     "cross-env": "^7.0.3",
     "cssnano": "^7.0.1",
     "cssnano-preset-advanced": "^7.0.0",
+    "eslint": "^9.32.0",
     "fs-extra": "^11.2.0",
+    "globals": "^15.15.0",
     "gulp": "^5.0.0",
     "gulp-concat": "^2.6.1",
+    "gulp-eslint-new": "^2.4.0",
     "gulp-postcss": "^10.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.1.4",
