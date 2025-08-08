@@ -4,16 +4,16 @@
 // @match       *://*.google.*/*
 // @grant       GM_addStyle
 // @version     1.0
-// @author      Your Name
+// @author      Avitesh Murmu
 // @description A simple popup to test the Gulp build setup.
 // ==/UserScript==
 
 (function () {
   "use strict";
 
-  // Styles will be injected here by the build process
+  // The build process will inject the minified CSS here.
   // {{STYLES}}
 
-  // Your bundled and minified code will be injected here
+  // The build process will inject the bundled and minified JavaScript logic here.
   // {{CODE}}
 })();
