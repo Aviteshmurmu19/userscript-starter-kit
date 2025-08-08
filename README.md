@@ -1,6 +1,6 @@
 # Userscript Starter Kit
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
 [![Issues](https://img.shields.io/github/issues/Aviteshmurmu19/userscript-starter-kit)](https://github.com/Aviteshmurmu19/userscript-starter-kit/issues)
 [![Forks](https://img.shields.io/github/forks/Aviteshmurmu19/userscript-starter-kit)](https://github.com/Aviteshmurmu19/userscript-starter-kit/network/members)
 [![Stars](https://img.shields.io/github/stars/Aviteshmurmu19/userscript-starter-kit)](https://github.com/Aviteshmurmu19/userscript-starter-kit/stargazers)
@@ -137,7 +137,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-Distributed under the MIT License. This project is free and open-source.
+Distributed under the GNU GPLv3 License. See [`LICENSE`](./LICENSE) for more information. This project is free and open-source.
 
 ## Contact
 

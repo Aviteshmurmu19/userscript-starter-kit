@@ -25,7 +25,7 @@
     "cssnano"
   ],
   "author": "Avitesh Murmu",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/Aviteshmurmu19/userscript-starter-kit#readme",
   "bugs": {
     "url": "https://github.com/Aviteshmurmu19/userscript-starter-kit/issues"
